@@ -9,7 +9,7 @@ const style = {
   contentContainer: ``,
   nameContainer: `text-slate-500`,
   textContainer: `flex bg-white p-2 rounded-lg`,
-  inputContainer: `flex items-center  min-w-fit h-1/6 border-2 pt-2 pb-2 pl-2 rounded  `,
+  inputContainer: `flex items-center  min-w-fit h-1/6 border-2 pt-2 pb-2 pl-2 rounded  border-r-0`,
   inputField: `mr-2 w-5/6`,
   input: `border-none focus:outline-none`,
   submitButton: `bg-orange-100 p-2 rounded`,
